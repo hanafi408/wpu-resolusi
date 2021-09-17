@@ -2,8 +2,11 @@ rencana konten wpu
 
 javascript
   *ES6
-  *framework
+  *framework javascript
+   ^vue
 struktur data dasar
 php frameword
+ *laravel
 interview
 vlogs
+python
