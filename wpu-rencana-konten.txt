@@ -4,8 +4,13 @@ javascript
   *ES6
   *framework javascript
    ^angular
-   ^react
 php frameword
  ^laravel
+   ^vue
+   ^react
+struktur data dasar
+php frameword
+ *laravel
 interview
 vlogs
+python
