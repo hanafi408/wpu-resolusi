@@ -3,6 +3,9 @@ rencana konten wpu
 javascript
   *ES6
   *framework javascript
+   ^angular
+php frameword
+ ^laravel
    ^vue
    ^react
 struktur data dasar
