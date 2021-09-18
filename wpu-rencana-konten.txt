@@ -4,10 +4,10 @@ javascript
   *ES6
   *framework javascript
    ^angular
-php frameword
- ^laravel
    ^vue
    ^react
+php frameword
+ ^laravel
 struktur data dasar
 php frameword
  *laravel
